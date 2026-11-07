@@ -59,4 +59,4 @@ tests/run_tests.py      test cases
   duplicate IDs and unknown element/supplier references are rejected.
 
 ## Repository link
-[Add your public GitHub link here]
+https://github.com/ANDREW-HARBY/construction-cost-planner
